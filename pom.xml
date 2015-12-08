@@ -5,11 +5,11 @@
 
 	<groupId>com.code.challenge</groupId>
 	<artifactId>CodeChallenge</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.1</version>
 	<packaging>jar</packaging>
 
 	<name>JavaTheHutt</name>
-	<description>Java The Hutt Challenge </description>
+	<description>Java The Hutt Challenge</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
