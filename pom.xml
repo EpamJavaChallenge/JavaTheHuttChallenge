@@ -50,6 +50,7 @@
 				<directory>src/main/resources</directory>
 				<includes>
 					<include>application.properties</include>
+					<include>sonar-project.properties</include>
 				</includes>
 			</resource>
 			<resource>
