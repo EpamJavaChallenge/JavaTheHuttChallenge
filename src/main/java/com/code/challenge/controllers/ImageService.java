@@ -15,7 +15,7 @@ import com.code.challenge.repositories.ImageRepository;
 
 @RestController
 @RequestMapping("/api")
-public class ImageService {
+public class ImageService { 
 
 	@Autowired
 	private ImageRepository imageRepository;
