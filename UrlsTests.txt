@@ -1,0 +1,6 @@
+FAIL:
+http://localhost:8080/api/Search_Engines/gif/1024/128?name=fef5ca7d-636a-4b6b-9f23-1f6f1752a2d
+http://localhost:8080/api/Entertainment/jpg/192/384?name=0005ed0a-ff9e-4a62-yy8d29-bd10320d8c38
+OK:
+http://localhost:8080/api/Entertainment/jpg/192/384?name=0005ed0a-ff9e-4a62-8d29-bd10320d8c38
+http://localhost:8080/api/Information_Technology/png/128/128?name=0011f761-4026-4e94-b232-afd2a8554bae
